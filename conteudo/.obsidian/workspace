@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "0fad0408356ee9b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "29cc2884ce715d91",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JS/A evolução do JS.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41c3983dc67a2df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "be968f7d1a4b9045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78d94f2873fac169",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fec714aef6c8209",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dc57ff108279111",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c69b432b43358db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7add5ec98d6bf4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JS/A evolução do JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "29cc2884ce715d91",
+  "lastOpenFiles": [
+    "JS/A evolução do JS.md",
+    "JS/Introdução.md",
+    "Navegador.md",
+    "Client x Server.md",
+    "Cliente.md",
+    "Servidor.md"
+  ]
+}

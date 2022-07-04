@@ -1,0 +1,1 @@
+Ao acessar um site, o dispositivo está acessando dados de alguma fonte se a fonte não for interna ela é um [[Servidor]]. Em uma situação de acesso o seu aparelho se torna um [[Cliente]].

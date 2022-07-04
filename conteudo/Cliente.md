@@ -1,0 +1,1 @@
+Sistema computacional que realizou uma requisição de dados de algum meio externo, se tornando nessa situação um cliente.

@@ -1,0 +1,1 @@
+Computador com grande poder computacional que processa requisições em rede.

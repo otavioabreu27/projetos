@@ -1,0 +1,1 @@
+Aplicativo utilizado para acessar a internet.
