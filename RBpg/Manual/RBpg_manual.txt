@@ -1,0 +1,60 @@
+RBpg Manual 
+----------------
+
+Criacao de personagem
+1. Classe
+	. Muda o status base e as habilidades do personagem
+	1.1 Guerreiro
+	Vida:
+	Mana:
+	Ataque:
+	Inteligencia:
+	Destreza:
+	Fe:	
+-------------------------------------------------------------------------------
+	1.2 Mago
+	Vida:
+	Mana:
+	Ataque:
+	Inteligencia:
+	Destreza:
+	Fe:
+-------------------------------------------------------------------------------
+	1.3 Ladino
+	Vida:
+	Mana:
+	Ataque:
+	Inteligencia:
+	Destreza:
+	Fe:
+-------------------------------------------------------------------------------
+	1.4 Clerigo
+	Vida:
+	Mana:
+	Ataque:
+	Inteligencia:
+	Destreza:
+	Fe:
+-------------------------------------------------------------------------------
+2. Habilidades
+	. Sao como itens consumiveis que se restauram apos *rest*
+-------------------------------------------------------------------------------
+3. Itens
+	. Consumiveis ou materiais, encontrados em *hunt* ou *quest*
+-------------------------------------------------------------------------------
+
+Mecanicas
+	Apos a criacao de personagem uma tela com esses elementos apare-
+	cera:
+
+	Life: 
+	Gold:
+	Exp:
+
+	(R)est
+	(H)unt
+	(Q)uest
+	(I)nventory
+	(S)tatus
+	
+

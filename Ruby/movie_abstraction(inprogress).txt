@@ -1,0 +1,29 @@
+	menu_function
+		def clear_screen
+		- sees all the functions
+		- define choice
+		def clear_screen
+	
+		case choice
+		add
+			 def show_list
+			- ask the movie name
+				-if already existis
+					def clear_screen
+					- puts already exists
+					- puts still wanna add ?
+				-else
+					def add_list
+					- puts adding complete
+					def show_list
+					- comeback to the menu?
+		update
+			def clear_screen
+			def show_list
+			- ask the movie name
+				-if already exists
+					-new 
+				
+
+			
+		

@@ -1,0 +1,1 @@
+input('Literalmente a mesma coisa do 9')

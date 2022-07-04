@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.Embedded"/>
+    <fullyQualifiedTypeName name="javax.persistence.Embeddable"/>
+    <fullyQualifiedTypeName name="javax.persistence.EnumType"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.dio.santander.banklineapi.model.Movimentacao"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.dio.santander.banklineapi.model.Correntista"/>
+    <fullyQualifiedTypeName name="com.dio.santander.banklineapi.repository.CorrentistaRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+</qualifiedTypeNameHistroy>
